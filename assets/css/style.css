@@ -16863,3 +16863,27 @@ button:focus {
 /* '' */
 
 /*# sourceMappingURL=style.css.map */
+
+
+
+.career-card{
+  border: 1px solid gray;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  padding: 20px;
+  height: 200px;
+}
+
+.career-card:hover{
+  background-color: lightgray;
+}
+
+.apply-btn{
+  border: 0;
+  background-color: darkgreen;
+  color: white;
+  padding: 10px 20px;
+  margin-top: 20px;
+}
